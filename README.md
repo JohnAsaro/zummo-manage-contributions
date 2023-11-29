@@ -1,2 +1,2 @@
-# get_bike
-archive of a contribution to github.com/awoolfson/zummo-manage, im proud of this code!!!
+# zummo-manage-contributions
+archive of my contributions to github.com/awoolfson/zummo-manage
